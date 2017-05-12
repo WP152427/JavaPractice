@@ -38,6 +38,7 @@ public class PersonTest2 {
 		System.out.println(person);
 		person.sayHello();
 		person.sayBye();
+		
 	}
 	
 }
